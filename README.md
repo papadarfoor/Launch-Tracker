@@ -1,6 +1,6 @@
 # launch_tracker
 
-A new Flutter project.
+A mobile application to track SpaceX rocket launches
 
 ## Getting Started
 
